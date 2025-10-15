@@ -29,11 +29,11 @@
 
 ## Skills
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/JUCE-8DC63F?style=for-the-badge&logo=juce&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=juce&logoColor=white">
 </div>
-<br />
-<br />
-<br />
+<br>
 
 Copyright ⓒjameshhjung
