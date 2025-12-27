@@ -1,4 +1,4 @@
-## jameshhjung / 정현후
+## hayden.jeong / 정현후
 안녕하세요! 정현후입니다.<br> 
 미디어 분야의 서비스 개발을 하면서<br>
 행복하게 살고 싶은 개발자입니다.<br>
@@ -34,4 +34,4 @@
 </div>
 <br>
 
-Copyright ⓒjameshhjung
+Copyright ⓒhayden.jeong
